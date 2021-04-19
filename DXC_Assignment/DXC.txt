@@ -1,0 +1,3 @@
+1618805521406,1389,POST,200,OK,Thread Group 1-1,text,true,,462,327,1,1,https://petstore.swagger.io/v2/store/order,1388,0,1112
+1618805522797,266,GET_order,200,OK,Thread Group 1-1,text,true,,444,182,1,1,https://petstore.swagger.io/v2/store/order/6?orderId=6,266,0,0
+1618805523065,268,GET_inventory,200,OK,Thread Group 1-1,text,true,,419,174,1,1,https://petstore.swagger.io/v2/store/inventory,267,0,0
